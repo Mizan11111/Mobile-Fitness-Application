@@ -2,6 +2,8 @@
 
 Let's consider a project for developing a prototype of a mobile fitness application using the **Prototype Model**:
 
+![Alt](https://miro.medium.com/v2/resize:fit:1400/1*ZDlW4YN2UVQqD3-_l69dSw.png)
+
 ### 1.Project Concept:
 
 Develop a mobile fitness application aimed at helping users create personalized workout plans, track their exercise routines, and receive nutritional advice.
