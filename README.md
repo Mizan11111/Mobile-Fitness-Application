@@ -54,14 +54,15 @@ Provide the finalized prototype to the development team for building the complet
 
 The **Prototype Model** allows for early user involvement, making it suitable for projects where user feedback and iterative improvements are crucial for the success of the final product. The process ensures that the final application aligns closely with user expectations and needs.
 
-#Submitted By:
-**Name:Md. Mehedi Hasan Mizan**
-**ID:2002018**
-**Course Title:Software Engineering**
+
+# Submitted By:  
+**Name:Md. Mehedi Hasan Mizan**  
+**ID:2002018**  
+**Course Title:Software Engineering**  
 **Course Code:CSE 305**
 
-#Submitted T0:
-**Pankaj Bhowmik**
-**Lecturer**
-**Department of Computer Science and Engineering**
+# Submitted T0:  
+**Pankaj Bhowmik**  
+**Lecturer**  
+**Department of Computer Science and Engineering**  
 **HSTU,DINAJPUR**
